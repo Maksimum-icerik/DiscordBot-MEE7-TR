@@ -1,5 +1,4 @@
 module.exports = member => {
     let username = member.user.username;
-    member.sendMessage('Selamlar,Değerli ' + username + ' Discord Sunucumaza Hoşgeldin  ,  Keyifli Vakit Geçirmen Dileğiyle. ||https://discord.gg/B5P2MCM|| Buda sunucumuzun sınırsız linki   ');
-
+    member.sendMessage('Selam ' + username + ' :) Discord Sunucumuza Hoşgeldin  ,  umarım iyi vakit geçirirsin adamım :D
 };
