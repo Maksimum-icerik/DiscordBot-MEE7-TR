@@ -28,4 +28,4 @@ exports.help = {
   name: 'atam',
   description: 'atam',
   usage: 'atam'
-};
+}; 
